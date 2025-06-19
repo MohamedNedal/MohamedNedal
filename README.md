@@ -56,10 +56,9 @@ I'm a Postdoctoral Research Fellow in Solar Physics at the [Dublin Institute for
 
 ## ✨ Personal Side
 
-- **Languages:** Arabic (native), English (fluent)
+- **Languages:** Arabic (native), English (fluent, debatable!)
 - **Family:** Oldest sibling; share birthdate & birthday with my mother!
-- **Personality:** Introspective, nature-loving, curious about the cosmos, life, and the afterlife
-- **Fun Fact:** Social introvert; prefer deep conversations over parties
+- **Personality:** Introspective, nature-loving, and Social introvert; prefer deep conversations over parties
 
 ---
 
