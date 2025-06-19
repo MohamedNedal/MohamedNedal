@@ -49,7 +49,8 @@ I'm a Postdoctoral Research Fellow in Solar Physics at the [Dublin Institute for
 - 🌱 Gardening, plant care, and healthy eating (including fermenting veggies!)
 - 🎨 Drawing and painting 
 - 🏋️‍♂️ Exercise and wellness
-- 🐾 Making eye contact with animals (especially cats hugging trees!)
+- 🐈 I love cats & hugging trees
+- 🐾 Making eye contact with animals!
 
 ---
 
