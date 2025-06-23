@@ -28,7 +28,7 @@
 
 - 🚴 Cycling, hiking, and exploring outdoors
 - 🌱 Gardening, plant care, and healthy eating (including fermenting veggies at home)
-- 🌐 Surfing the internet & learning something new
+- 🌐 Surfing the internet & learning new stuff
 - 🎨 Drawing and painting
 - 🏋️‍♂️ Exercise and wellness
 - 🏊 Swimming (still beginner)
