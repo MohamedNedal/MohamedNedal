@@ -21,6 +21,7 @@
   - Mac, Linux, & Windows OS
   - AI tools; so basically I can do anything (so to speak!)
   - Familiar with diverse Python packages and data sources
+  - Familiar with graphics, animation, & video montage software
 
 ---
 
