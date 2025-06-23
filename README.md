@@ -31,10 +31,12 @@
 - 🌐 Surfing the internet & learning new stuff
 - 🎨 Drawing and painting
 - 🏋️‍♂️ Exercise and wellness
-- 🏊 Swimming (still beginner)
 - 🐈 I love cats & hugging trees
 - 🐾 I like to make eye contact with animals
 - 🔫 Shooting (was a lieutenant in the army)
+- 🏊 Swimming (still beginner)
+- 🎸 Playing guitar (still beginner)
+- 📏 Playing harmonica (still beginner)
 
 ---
 
