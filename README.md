@@ -1,24 +1,3 @@
-<!--
-
-# 👋 Hi there, I'm Mohamed Nedal
-
-I'm a Postdoctoral Research Fellow in Solar Physics at the [Dublin Institute for Advanced Studies (DIAS)](https://www.dias.ie/2024/04/02/mohamed-nedal/), specializing in solar activities through multi-wavelength remote-sensing observations and in situ measurements.
-
-
-- 🔭 I’m currently working on solar radio bursts, solar energetic particles, coronal waves, and space weather forecasting using machine/deep learning.
-  
-- 👯 Always open to learning new skills and building research collaborations!
-- 
-- 💬 Ask me about ...
-- 
-- 📫 How to reach me: ...
-- 
-- 😄 Pronouns: He/him/his
-- 
-- ⚡ Fun fact: ...
-
--->
-
 🌞 About Me
 
 - **Position:** Postdoctoral Research Fellow in Solar Physics at DIAS, Dublin, Ireland  
@@ -47,28 +26,30 @@ I'm a Postdoctoral Research Fellow in Solar Physics at the [Dublin Institute for
 
 - 🚴 Cycling, hiking, and exploring outdoors
 - 🌱 Gardening, plant care, and healthy eating (including fermenting veggies!)
-- 🎨 Drawing and painting 
+- 🌐 Surfing the internet & learning something new
+- 🎨 Drawing and painting
 - 🏋️‍♂️ Exercise and wellness
 - 🐈 I love cats & hugging trees
-- 🐾 Making eye contact with animals!
+- 🐾 I like to make eye contact with animals!
 
 ---
 
 ## ✨ Personal Side
 
+- **Origin:** I'm Muslim, born and rasied in Giza, Egypt.
 - **Languages:** Arabic (native), English (fluent, debatable!)
 - **Family:** Oldest sibling; share birthdate & birthday with my mother!
-- **Personality:** Introspective, nature-loving, and social introvert; prefer deep conversations over parties
+- **Personality:** Introspective, nature-loving, and social introvert; prefer quiet environments and deep conversations over parties. I think I'm INTJ
 
 ---
 
 ## 🔗 How to reach me
 
+- [DIAS Profile](https://www.dias.ie/2024/04/02/mohamed-nedal/)
+- [YouTube](https://www.youtube.com/@mnedal)
 - [Facebook](https://www.facebook.com/Mohamed101001)
 - [Instagram](https://www.instagram.com/mnedalsol)
 - [Twitter/X](https://twitter.com/Mohamed101001)
-- [YouTube](https://www.youtube.com/@mnedal)
-- [DIAS Profile](https://www.dias.ie/2024/04/02/mohamed-nedal/)
 
 ---
 
