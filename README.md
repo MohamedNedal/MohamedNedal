@@ -16,21 +16,23 @@
   - Python, IDL, and Matlab
   - LaTeX & Bash scripting
   - Data wrangling, analysis, modeling, visualization
-  - Mac & Windows OS
+  - Mac, Linux, & Windows OS
   - AI tools; so basically I can do anything (so to speak!)
-  - Familiar with diverse programming packages and data sources
+  - Familiar with diverse Python packages and data sources
 
 ---
 
 ## 🌱 Hobbies & Interests
 
 - 🚴 Cycling, hiking, and exploring outdoors
-- 🌱 Gardening, plant care, and healthy eating (including fermenting veggies!)
+- 🌱 Gardening, plant care, and healthy eating (including fermenting veggies at home)
 - 🌐 Surfing the internet & learning something new
 - 🎨 Drawing and painting
 - 🏋️‍♂️ Exercise and wellness
+- 🏊 Swimming (still beginner)
 - 🐈 I love cats & hugging trees
-- 🐾 I like to make eye contact with animals!
+- 🐾 I like to make eye contact with animals
+- 🔫 Shooting (was a lieutenant in the army)
 
 ---
 
