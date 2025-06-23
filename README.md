@@ -42,8 +42,7 @@
 
 - **Origin:** I'm Muslim, born and rasied in Giza, Egypt.
 - **Languages:** Arabic (native), English (fluent, debatable!)
-- **Family:** Oldest sibling; share birthdate & birthday with my mother!
-- **Personality:** Introspective, nature-loving, and social introvert; prefer quiet environments and deep conversations over parties. I think I'm INTJ
+- **Personality:** Introspective & nature-loving. I think I'm INTJ
 
 ---
 
