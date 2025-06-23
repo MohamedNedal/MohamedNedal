@@ -1,3 +1,5 @@
+👋 Hello & Welcome to my profile!
+
 🌞 About Me
 
 - **Position:** Postdoctoral Research Fellow in Solar Physics at DIAS, Dublin, Ireland  
