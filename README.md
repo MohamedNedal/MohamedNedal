@@ -50,6 +50,7 @@
 ---
 
 ## 🔗 How to reach me
+P.S. I'm currently deactivating my social media accounts, maybe I'll reactivate them in a few months.
 
 - [DIAS Profile](https://www.dias.ie/2024/04/02/mohamed-nedal/)
 - [YouTube](https://www.youtube.com/@mnedal)
