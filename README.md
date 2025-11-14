@@ -19,7 +19,7 @@
   - LaTeX & Bash scripting
   - Data wrangling, analysis, modeling, visualization
   - Mac, Linux, & Windows OS
-  - Familiar with AI tools; so basically I can do anything (so to speak!)
+  - Familiar with AI tools; so basically I can do anything (so to speak)
   - Familiar with diverse Python packages and data sources
   - Familiar with graphics, animation, & video montage software
 
