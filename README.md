@@ -23,6 +23,7 @@
   - Familiar with diverse Python packages and data sources
   - Familiar with graphics, animation, & video montage software
 
+<!--
 ---
 
 ## 🌱 Hobbies & Interests
@@ -62,7 +63,6 @@ P.S. I'm currently deactivating my social media accounts, maybe I'll reactivate 
 >
 > — Mohamed Nedal
 
-<!--
 ---
 
 ![Profile Banner](https://user-images.githubusercontent.com/placeholder/banner.png)
