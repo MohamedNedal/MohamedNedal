@@ -9,7 +9,7 @@
   - Coronal waves
   - Space weather forecasting using machine/deep learning
 
-🤝 Always open to learning new skills and building research collaborations!
+🤝 Always open to learning new skills and building research collaborations.
 
 ---
 
