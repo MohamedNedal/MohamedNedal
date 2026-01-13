@@ -2,7 +2,9 @@
 
 🌞 About Me
 
-- **Position:** Postdoctoral Research Fellow in Solar Physics at DIAS, Dublin, Ireland  
+- **Current Position(s):**
+  - Postdoctoral Research Fellow in Solar Physics at DIAS, Dublin, Ireland
+  - Temporary Lecturer at DCU, Ireland
 - **Research Focus:**  
   - Solar radio bursts  
   - Solar energetic particles  
